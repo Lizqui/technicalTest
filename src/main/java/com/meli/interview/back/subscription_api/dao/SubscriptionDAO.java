@@ -1,7 +1,8 @@
-package com.meli.interview.back.subscription_api.subscription;
+package com.meli.interview.back.subscription_api.dao;
 
 import com.meli.interview.back.subscription_api.exception.CollaboratorCallException;
-import com.meli.interview.back.subscription_api.session.User;
+import com.meli.interview.back.subscription_api.subscription.Subscription;
+import com.meli.interview.back.subscription_api.user.User;
 
 import java.util.ArrayList;
 

@@ -1,6 +1,7 @@
 package com.meli.interview.back.subscription_api.session;
 
 import com.meli.interview.back.subscription_api.exception.CollaboratorCallException;
+import com.meli.interview.back.subscription_api.user.User;
 
 public class UserSession {
 

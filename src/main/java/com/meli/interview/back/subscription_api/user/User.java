@@ -1,4 +1,4 @@
-package com.meli.interview.back.subscription_api.session;
+package com.meli.interview.back.subscription_api.user;
 
 import com.meli.interview.back.subscription_api.subscription.Subscription;
 
